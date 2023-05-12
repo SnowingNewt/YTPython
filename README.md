@@ -7,5 +7,5 @@ Ferramenta codada em Python para facilitar o uso do dia a dia, sem ter que se pr
 
 
 
-#✨Instalação!✨
+# ✨Instalação!✨
     * Apenas baixe e execute o arquivo: "instalação.sh" 😆
